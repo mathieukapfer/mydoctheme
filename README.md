@@ -1,2 +1,2 @@
 # mydoctheme
-my jekkyl them
+my jekkyl theme
